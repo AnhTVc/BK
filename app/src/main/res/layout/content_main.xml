@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/content_main"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="analytic.vietanh.project.com.bk.MainActivity"
+    tools:showIn="@layout/app_bar_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:textSize="18dp"
+            android:layout_marginBottom="@dimen/activity_vertical_margin"
+            android:textStyle="bold|italic"
+            android:text="Tran Viet Anh - CNTT1.01"
+            android:id="@+id/textView" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_marginBottom="@dimen/activity_vertical_margin"
+            android:layout_height="wrap_content"
+            android:textSize="12dp"
+            android:textColor="@color/red"
+            android:textStyle="bold"
+            android:text="CPA của ban đang là 2.45, bạn cần cải thiện ít nhất 3 môn A để được bằng giỏi."/>
+        <com.github.mikephil.charting.charts.LineChart
+            android:id="@+id/chart"
+            android:layout_marginBottom="@dimen/activity_vertical_margin"
+            android:layout_marginTop="@dimen/activity_vertical_margin"
+            android:layout_width="match_parent"
+            android:layout_height="180dp" />
+        <com.github.mikephil.charting.charts.BarChart
+            android:id="@+id/chartTwo"
+            android:layout_marginTop="@dimen/activity_vertical_margin"
+            android:layout_marginBottom="@dimen/activity_vertical_margin"
+            android:layout_width="match_parent"
+            android:layout_height="180dp"  />
+        <TableLayout
+            android:id="@+id/tbLayoutDanhSachDiem"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:stretchColumns="*"
+            android:layout_alignParentTop="true">
+
+            <TableRow
+                android:layout_width="fill_parent"
+                android:layout_height="match_parent"
+                android:background="#1B5E20" >
+
+                <TextView
+                    android:paddingBottom="10dp"
+                    android:textSize="10dp"
+                    android:paddingLeft="5dp"
+                    android:paddingRight="5dp"
+                    android:text="Mã Học Phần"
+                    android:textColor="@android:color/white"
+                    android:paddingTop="10dp"
+                    android:layout_width="wrap_content" />
+
+
+                <TextView
+                    android:paddingBottom="10dp"
+                    android:textSize="8dp"
+                    android:paddingLeft="5dp"
+                    android:paddingRight="5dp"
+                    android:text="Tên học phần"
+                    android:layout_gravity="center"
+                    android:textColor="@android:color/white"
+                    android:paddingTop="10dp" />
+
+
+
+                <TextView
+                    android:paddingBottom="10dp"
+                    android:textSize="10dp"
+                    android:paddingLeft="5dp"
+                    android:paddingRight="5dp"
+                    android:paddingTop="10dp"
+                    android:text=""
+                    android:textColor="@color/red"/>
+            </TableRow>
+
+
+        </TableLayout>
+
+    </LinearLayout>
+</ScrollView>

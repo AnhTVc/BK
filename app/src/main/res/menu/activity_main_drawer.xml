@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single" >
+
+        <item android:title="Thông tin chung" >
+            <menu>
+                <item
+                    android:id="@+id/ketquahoctap"
+                    android:icon="@drawable/result"
+                    android:textSize="@dimen/text_icon_size"
+                    android:title="Home" />
+                <item
+                    android:id="@+id/taikhoan"
+                    android:icon="@drawable/user_96"
+                    android:textSize="@dimen/text_icon_size"
+                    android:title="Tài Khoản" />
+                <item
+                    android:id="@+id/caithien"
+                    android:icon="@drawable/ic_try"
+                    android:textSize="@dimen/text_icon_size"
+                    android:title="Cải Thiện - Nợ Môn" />
+                <item
+                    android:id="@+id/thoikhoabieu"
+                    android:icon="@drawable/timetable_icon_96"
+                    android:textSize="@dimen/text_icon_size"
+                    android:title="Thời Khóa Biểu" />
+
+            </menu>
+
+        </item>
+    </group>
+
+    <item android:title="Thông tin mở rộng">
+        <menu>
+            <item
+                android:id="@+id/hocphi"
+                android:icon="@drawable/money"
+                android:textSize="@dimen/text_icon_size"
+                android:title="Học Phí" />
+            <item
+                android:id="@+id/logout"
+                android:icon="@drawable/logout"
+                android:textSize="@dimen/text_icon_size"
+                android:title="Đăng Xuất" />
+        </menu>
+    </item>
+
+</menu>
