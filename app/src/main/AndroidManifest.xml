@@ -36,7 +36,8 @@
             android:name="android.support.PARENT_ACTIVITY"
             android:value=".MainActivity" />
 
-        <activity android:name=".BasicActivity"></activity>
+        <activity android:name=".BasicActivity" />
+        <activity android:name=".ClassScheduleActivity"/>
     </application>
 
 </manifest>

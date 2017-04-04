@@ -124,7 +124,7 @@ public class MainActivity extends AppCompatActivity
                 startActivity(intent);
                 break;
             case (R.id.thoikhoabieu):
-                intent = new Intent(this, BasicActivity.class);
+                intent = new Intent(this, ClassScheduleActivity.class);
                 startActivity(intent);
                 break;
             default:

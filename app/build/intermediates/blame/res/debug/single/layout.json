@@ -1,0 +1,366 @@
+[
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/material_view_pager_viewpager.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.github.florent37/materialviewpager/1.2.1/res/layout/material_view_pager_viewpager.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/fragment_recyclerview.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/src/main/res/layout/fragment_recyclerview.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/fragment_thursday.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/src/main/res/layout/fragment_thursday.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/content_main.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/src/main/res/layout/content_main.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/list_item_card_small.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/src/main/res/layout/list_item_card_small.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/fragment_friday.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/src/main/res/layout/fragment_friday.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/material_view_pager_pagertitlestrip_newstand.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.github.florent37/materialviewpager/1.2.1/res/layout/material_view_pager_pagertitlestrip_newstand.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/material_view_pager_layout.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.github.florent37/materialviewpager/1.2.1/res/layout/material_view_pager_layout.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/material_view_pager_imageview_header.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.github.florent37/materialviewpager/1.2.1/res/layout/material_view_pager_imageview_header.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/fragment_wednesday.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/src/main/res/layout/fragment_wednesday.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/fragment_saturday.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/src/main/res/layout/fragment_saturday.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/activity_time_table.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/src/main/res/layout/activity_time_table.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/tools_material_view_pager_pagertitlestrip.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.github.florent37/materialviewpager/1.2.1/res/layout/tools_material_view_pager_pagertitlestrip.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/nav_header_main.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/src/main/res/layout/nav_header_main.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/fragment_tuesday.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/src/main/res/layout/fragment_tuesday.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/drawer.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/src/main/res/layout/drawer.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/fragment_monday.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/src/main/res/layout/fragment_monday.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/material_view_pager_pagertitlestrip_standard.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.github.florent37/materialviewpager/1.2.1/res/layout/material_view_pager_pagertitlestrip_standard.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/tools_list_item_card_small.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.github.florent37/materialviewpager/1.2.1/res/layout/tools_list_item_card_small.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/activity_profile_user.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/src/main/res/layout/activity_profile_user.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/header_logo_full.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/src/main/res/layout/header_logo_full.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/activity_class_schedule.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/src/main/res/layout/activity_class_schedule.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/header_logo_text.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/src/main/res/layout/header_logo_text.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/material_view_pager_moving_header.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.github.florent37/materialviewpager/1.2.1/res/layout/material_view_pager_moving_header.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/tools_list_items.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.github.florent37/materialviewpager/1.2.1/res/layout/tools_list_items.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/fragment_webview.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/src/main/res/layout/fragment_webview.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/header_logo_2.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/src/main/res/layout/header_logo_2.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/header_logo.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/src/main/res/layout/header_logo.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/notification_template_custom_big.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/tools_list_item_card_big.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.github.florent37/materialviewpager/1.2.1/res/layout/tools_list_item_card_big.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/material_view_pager_placeholder.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.github.florent37/materialviewpager/1.2.1/res/layout/material_view_pager_placeholder.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/list_item_card_big.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/src/main/res/layout/list_item_card_big.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/fragment_scroll.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/src/main/res/layout/fragment_scroll.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/psts_tab.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.jpardogo.materialtabstrip/library/1.1.0/res/layout/psts_tab.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/app_bar_main.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/src/main/res/layout/app_bar_main.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/fragment_list.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/src/main/res/layout/fragment_list.xml"
+    },
+    {
+        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/layout/design_navigation_item_separator.xml"
+    }
+]
