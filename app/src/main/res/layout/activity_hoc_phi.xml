@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_hoc_phi"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="analytic.vietanh.project.com.bk.HocPhiActivity">
+    <ImageView
+        android:id="@+id/header_cover_image"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/bg_profileuser"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Học Phí Của Bạn Kỳ Này là \n3.400.000 VND"
+        android:layout_below="@+id/header_cover_image"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="15dp"
+        android:padding="15dp"
+        android:textSize="18dp"
+        android:id="@+id/textView2" />
+</RelativeLayout>

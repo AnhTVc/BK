@@ -37,7 +37,10 @@
             android:value=".MainActivity" />
 
         <activity android:name=".BasicActivity" />
-        <activity android:name=".ClassScheduleActivity"/>
+        <activity android:name=".ClassScheduleActivity" />
+        <activity android:name=".TryAgainActivity" />
+        <activity android:name=".ListViewDSHocPhan" />
+        <activity android:name=".HocPhiActivity"></activity>
     </application>
 
 </manifest>

@@ -56,6 +56,9 @@
 
         <activity android:name="analytic.vietanh.project.com.bk.BasicActivity" />
         <activity android:name="analytic.vietanh.project.com.bk.ClassScheduleActivity" />
+        <activity android:name="analytic.vietanh.project.com.bk.TryAgainActivity" />
+        <activity android:name="analytic.vietanh.project.com.bk.ListViewDSHocPhan" />
+        <activity android:name="analytic.vietanh.project.com.bk.HocPhiActivity" />
 
         <receiver
             android:name="com.google.android.gms.measurement.AppMeasurementReceiver"

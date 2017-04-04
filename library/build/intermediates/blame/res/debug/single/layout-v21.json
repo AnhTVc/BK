@@ -1,18 +1,34 @@
 [
     {
-        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/library/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
-        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout-v21/notification_template_icon_group.xml"
+        "merged": "D:\\Data\\Du An\\BKHN\\project\\BK\\library\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "D:\\Data\\Du An\\BKHN\\project\\BK\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout-v21\\notification_template_icon_group.xml"
     },
     {
-        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/library/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
-        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout-v21/notification_action_tombstone.xml"
+        "merged": "D:\\Data\\Du An\\BKHN\\project\\BK\\library\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "D:\\Data\\Du An\\BKHN\\project\\BK\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout-v21\\notification_action_tombstone.xml"
     },
     {
-        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/library/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
-        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout-v21/notification_template_custom_big.xml"
+        "merged": "D:\\Data\\Du An\\BKHN\\project\\BK\\library\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "D:\\Data\\Du An\\BKHN\\project\\BK\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout-v21\\notification_action.xml"
     },
     {
-        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/library/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
-        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout-v21/notification_action.xml"
+        "merged": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\library\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\library\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\library\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\Data\\Du An\\BKHN\\project\\BK\\library\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "D:\\Data\\Du An\\BKHN\\project\\BK\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\library\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout-v21\\notification_action_tombstone.xml"
     }
 ]

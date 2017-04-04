@@ -1,242 +1,482 @@
 [
     {
-        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/drawable/design_bottom_navigation_item_background.xml",
-        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/drawable/design_bottom_navigation_item_background.xml"
+        "merged": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
-        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
-        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_ic_ab_back_material.xml"
+        "merged": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_search_api_material.xml"
     },
     {
-        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
-        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_ic_go_search_api_material.xml"
+        "merged": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
-        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
-        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/notification_bg.xml"
+        "merged": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
-        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_item_background_holo_light.xml"
+        "merged": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\money.png",
+        "source": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\src\\main\\res\\drawable\\money.png"
     },
     {
-        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
-        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_text_cursor_material.xml"
+        "merged": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
-        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
-        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_seekbar_thumb_material.xml"
+        "merged": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
-        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+        "merged": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\drawable\\design_bottom_navigation_item_background.xml"
     },
     {
-        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/drawable/circle.xml",
-        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/src/main/res/drawable/circle.xml"
+        "merged": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_clear_material.xml"
     },
     {
-        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/drawable/timetable_icon_96.png",
-        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/src/main/res/drawable/timetable_icon_96.png"
+        "merged": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
-        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
-        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/notification_bg_low.xml"
+        "merged": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
-        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
-        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/drawable/navigation_empty_icon.xml"
+        "merged": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_search_api_material.xml"
     },
     {
-        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
-        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/drawable/design_snackbar_background.xml"
+        "merged": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
-        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_ic_voice_search_api_material.xml"
+        "merged": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logout.png",
+        "source": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\src\\main\\res\\drawable\\logout.png"
     },
     {
-        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/drawable/result.png",
-        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/src/main/res/drawable/result.png"
+        "merged": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_try.png",
+        "source": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\src\\main\\res\\drawable\\ic_try.png"
     },
     {
-        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/drawable/ic_try.png",
-        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/src/main/res/drawable/ic_try.png"
+        "merged": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\notification_tile_bg.xml"
     },
     {
-        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/drawable/psts_background_tab.xml",
-        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.jpardogo.materialtabstrip/library/1.1.0/res/drawable/psts_background_tab.xml"
+        "merged": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/drawable/flying.png",
-        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/src/main/res/drawable/flying.png"
+        "merged": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\drawable\\design_snackbar_background.xml"
     },
     {
-        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/drawable/money.png",
-        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/src/main/res/drawable/money.png"
+        "merged": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flying.png",
+        "source": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\src\\main\\res\\drawable\\flying.png"
     },
     {
-        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
-        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_ratingbar_indicator_material.xml"
+        "merged": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\result.png",
+        "source": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\src\\main\\res\\drawable\\result.png"
     },
     {
-        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
-        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_list_selector_holo_dark.xml"
+        "merged": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
-        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
-        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_ratingbar_small_material.xml"
+        "merged": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
-        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/notification_icon_background.xml"
+        "merged": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_seekbar_track_material.xml"
     },
     {
-        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
-        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_switch_thumb_material.xml"
+        "merged": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
-        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
-        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_item_background_holo_dark.xml"
+        "merged": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
-        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
-        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\timetable_icon_96.png",
+        "source": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\src\\main\\res\\drawable\\timetable_icon_96.png"
     },
     {
-        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
-        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/drawable/design_fab_background.xml"
+        "merged": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_dialog_material_background.xml"
     },
     {
-        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/drawable/user_96.png",
-        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/src/main/res/drawable/user_96.png"
+        "merged": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_ic_visibility.xml",
+        "source": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\drawable\\design_ic_visibility.xml"
     },
     {
-        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
-        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_cab_background_top_material.xml"
+        "merged": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\user_logo.jpg",
+        "source": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\src\\main\\res\\drawable\\user_logo.jpg"
     },
     {
-        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
-        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_spinner_textfield_background_material.xml"
+        "merged": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\profile_circular_border_imageview.xml",
+        "source": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\src\\main\\res\\drawable\\profile_circular_border_imageview.xml"
     },
     {
-        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
-        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_ic_menu_overflow_material.xml"
+        "merged": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\psts_background_tab.xml",
+        "source": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.jpardogo.materialtabstrip\\library\\1.1.0\\res\\drawable\\psts_background_tab.xml"
     },
     {
-        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
-        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_btn_radio_material.xml"
+        "merged": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ratingbar_material.xml"
     },
     {
-        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/drawable/logo.png",
-        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/src/main/res/drawable/logo.png"
+        "merged": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+        "merged": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_ab_back_material.xml"
     },
     {
-        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
-        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_btn_check_material.xml"
+        "merged": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
-        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_tab_indicator_material.xml"
+        "merged": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_radio_material.xml"
     },
     {
-        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
-        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_btn_default_mtrl_shape.xml"
+        "merged": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
-        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/drawable/bkhn_bg.jpg",
-        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/src/main/res/drawable/bkhn_bg.jpg"
+        "merged": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\user.png",
+        "source": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\src\\main\\res\\drawable\\user.png"
     },
     {
-        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
-        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_seekbar_tick_mark_material.xml"
+        "merged": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\result.png",
+        "source": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\src\\main\\res\\drawable\\result.png"
     },
     {
-        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
-        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_btn_borderless_material.xml"
+        "merged": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
     },
     {
-        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
-        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_vector_test.xml"
+        "merged": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\notification_bg_low.xml"
     },
     {
-        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/drawable/logo_white.png",
-        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/src/main/res/drawable/logo_white.png"
+        "merged": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\notification_bg.xml"
     },
     {
-        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
-        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/notification_tile_bg.xml"
+        "merged": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
-        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/drawable/bg_profileuser.jpg",
-        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/src/main/res/drawable/bg_profileuser.jpg"
+        "merged": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
     },
     {
-        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/drawable/logout.png",
-        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/src/main/res/drawable/logout.png"
+        "merged": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_colored_material.xml"
     },
     {
-        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
-        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_ic_clear_material.xml"
+        "merged": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/drawable/user.png",
-        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/src/main/res/drawable/user.png"
+        "merged": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\timetable_icon_96.png",
+        "source": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\src\\main\\res\\drawable\\timetable_icon_96.png"
     },
     {
-        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
-        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_ic_search_api_material.xml"
+        "merged": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle.xml",
+        "source": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\src\\main\\res\\drawable\\circle.xml"
     },
     {
-        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/drawable/user_logo.jpg",
-        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/src/main/res/drawable/user_logo.jpg"
+        "merged": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_vector_test.xml"
     },
     {
-        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/drawable/design_ic_visibility.xml",
-        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/drawable/design_ic_visibility.xml"
+        "merged": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\drawable\\design_fab_background.xml"
     },
     {
-        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/drawable/side_nav_bar.xml",
-        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/src/main/res/drawable/side_nav_bar.xml"
+        "merged": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle.xml",
+        "source": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\src\\main\\res\\drawable\\circle.xml"
     },
     {
-        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
-        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_list_selector_holo_light.xml"
+        "merged": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\drawable\\design_fab_background.xml"
     },
     {
-        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
-        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_cab_background_internal_bg.xml"
+        "merged": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\src\\main\\res\\drawable\\logo.png"
     },
     {
-        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
-        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_ratingbar_material.xml"
+        "merged": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
-        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_edit_text_material.xml"
+        "merged": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\notification_icon_background.xml"
     },
     {
-        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
-        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_textfield_search_material.xml"
+        "merged": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_profileuser.jpg",
+        "source": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\src\\main\\res\\drawable\\bg_profileuser.jpg"
     },
     {
-        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
-        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_dialog_material_background.xml"
+        "merged": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
-        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
-        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_seekbar_track_material.xml"
+        "merged": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_ic_visibility.xml",
+        "source": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\drawable\\design_ic_visibility.xml"
     },
     {
-        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/drawable/profile_circular_border_imageview.xml",
-        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/src/main/res/drawable/profile_circular_border_imageview.xml"
+        "merged": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
-        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_btn_colored_material.xml"
+        "merged": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
+        "source": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\psts_background_tab.xml",
+        "source": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.jpardogo.materialtabstrip\\library\\1.1.0\\res\\drawable\\psts_background_tab.xml"
+    },
+    {
+        "merged": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_white.png",
+        "source": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\src\\main\\res\\drawable\\logo_white.png"
+    },
+    {
+        "merged": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logout.png",
+        "source": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\src\\main\\res\\drawable\\logout.png"
+    },
+    {
+        "merged": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_profileuser.jpg",
+        "source": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\src\\main\\res\\drawable\\bg_profileuser.jpg"
+    },
+    {
+        "merged": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
+        "source": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\user_96.png",
+        "source": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\src\\main\\res\\drawable\\user_96.png"
+    },
+    {
+        "merged": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\user.png",
+        "source": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\src\\main\\res\\drawable\\user.png"
+    },
+    {
+        "merged": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_white.png",
+        "source": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\src\\main\\res\\drawable\\logo_white.png"
+    },
+    {
+        "merged": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\user_logo.jpg",
+        "source": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\src\\main\\res\\drawable\\user_logo.jpg"
+    },
+    {
+        "merged": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\money.png",
+        "source": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\src\\main\\res\\drawable\\money.png"
+    },
+    {
+        "merged": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bkhn_bg.jpg",
+        "source": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\src\\main\\res\\drawable\\bkhn_bg.jpg"
+    },
+    {
+        "merged": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flying.png",
+        "source": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\src\\main\\res\\drawable\\flying.png"
+    },
+    {
+        "merged": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\user_96.png",
+        "source": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\src\\main\\res\\drawable\\user_96.png"
+    },
+    {
+        "merged": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\profile_circular_border_imageview.xml",
+        "source": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\src\\main\\res\\drawable\\profile_circular_border_imageview.xml"
+    },
+    {
+        "merged": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bkhn_bg.jpg",
+        "source": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\src\\main\\res\\drawable\\bkhn_bg.jpg"
+    },
+    {
+        "merged": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_try.png",
+        "source": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\src\\main\\res\\drawable\\ic_try.png"
+    },
+    {
+        "merged": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_ab_back_material.xml"
     }
 ]

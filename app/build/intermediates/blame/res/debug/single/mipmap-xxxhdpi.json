@@ -1,6 +1,10 @@
 [
     {
-        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
-        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+        "merged": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     }
 ]

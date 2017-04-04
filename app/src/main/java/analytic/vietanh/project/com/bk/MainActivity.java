@@ -3,8 +3,6 @@ package analytic.vietanh.project.com.bk;
 import android.content.Intent;
 import android.graphics.Color;
 import android.os.Bundle;
-import android.support.design.widget.FloatingActionButton;
-import android.support.design.widget.Snackbar;
 import android.view.View;
 import android.support.design.widget.NavigationView;
 import android.support.v4.view.GravityCompat;
@@ -20,7 +18,6 @@ import android.widget.TableRow;
 import android.widget.TextView;
 
 import com.github.mikephil.charting.charts.BarChart;
-import com.github.mikephil.charting.charts.HorizontalBarChart;
 import com.github.mikephil.charting.charts.LineChart;
 import com.github.mikephil.charting.data.BarData;
 import com.github.mikephil.charting.data.BarDataSet;
@@ -28,12 +25,10 @@ import com.github.mikephil.charting.data.BarEntry;
 import com.github.mikephil.charting.data.Entry;
 import com.github.mikephil.charting.data.LineData;
 import com.github.mikephil.charting.data.LineDataSet;
-import com.github.mikephil.charting.formatter.DefaultValueFormatter;
 import com.github.mikephil.charting.formatter.ValueFormatter;
 import com.github.mikephil.charting.utils.ColorTemplate;
 import com.github.mikephil.charting.utils.ViewPortHandler;
 
-import java.sql.Time;
 import java.util.ArrayList;
 
 import analytic.vietanh.project.com.bk.POJO.Course;
@@ -125,6 +120,14 @@ public class MainActivity extends AppCompatActivity
                 break;
             case (R.id.thoikhoabieu):
                 intent = new Intent(this, ClassScheduleActivity.class);
+                startActivity(intent);
+                break;
+            case (R.id.caithien):
+                intent = new Intent(this, TryAgainActivity.class);
+                startActivity(intent);
+                break;
+            case (R.id.hocphi):
+                intent = new Intent(this, HocPhiActivity.class);
                 startActivity(intent);
                 break;
             default:

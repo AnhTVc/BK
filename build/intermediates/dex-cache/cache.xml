@@ -3,300 +3,300 @@
 
     <item
         is-multidex="false"
-        jar="/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="a61e7010aa7be5da53cd1bc5279630510c9a4912">
-        <dex dex="/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-10.2.0_097a2882dcd65aa9d0ce0960cc2c7e1f45647b92.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
-        <dex dex="/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.2.0_b7e8e641216d9c1d509b8ef552353d403515a46f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
-        <dex dex="/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_39f7bf6fef4d27eea3e8c1f859be71f809868d21.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
-        <dex dex="/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.0.2_1236d560e198ff7385eb474f3828f5af501e4d65.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
-        <dex dex="/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_0f70061e7bae76ea4138500ad56ef66589359e3e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
-        <dex dex="/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_e67ff024c54fd222aa92e888af19b9a83a3307ae.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="8a372c4191f80489770a231f7be4820b204b886a">
-        <dex dex="/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-25.0.0_d90a103cf8625e4ed64e73cdb9687e2b803dc4d7.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
-        <dex dex="/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_bb06850ced1749a75830ccb6fa4ef1282499a648.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/nguyenmanhtuan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
-        <dex dex="/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_e69819854bebceebf55cb74a44128c0185d488af.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.2.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="ce9112e08a027c8620ae693983e38cdbb9f6371b">
-        <dex dex="/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-10.2.0_59b25595b48b3dbf205bf59d8b41f918b590ced1.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="d4ab8678882571a0a6f19c47a826ecbce5b4f42b">
-        <dex dex="/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/pre-dexed/debug/com.jakewharton-butterknife-8.1.0_00ecf590635f7613dccc4e396bbd36a2adc7e0a5.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/nguyenmanhtuan/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
-        <dex dex="/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_b1b21e511c76f34b025ed5d2d9edbf705b4fff53.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
-        <dex dex="/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.0_6628e2118c9fc5dc0f58c631d1f90768050b481a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
-        <dex dex="/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.0.0_8d67e4f1b6db24412e78e781ffd188f3cc472c19.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/nguyenmanhtuan/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
-        <dex dex="/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/pre-dexed/debug/glide-3.7.0_6ffebff982123a25cfede1e80b45111f95c8a11d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
-        <dex dex="/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_729a6faa68800e561c26a3e824df56f2df3d5213.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.2.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
-        <dex dex="/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-10.2.0_18ffdf1e29fc5d5570147e02218a1e20df00638c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.jpardogo.materialtabstrip/library/1.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="611c7708cd3df0d7ae99105d4df5af8eb25c4b32">
-        <dex dex="/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/pre-dexed/debug/com.jpardogo.materialtabstrip-library-1.1.0_df26a178e753fe773a7a5728923a4bcd1e7456d2.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/nguyenmanhtuan/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
-        <dex dex="/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/pre-dexed/debug/gson-2.8.0_da4f262b160e7bfdf33586641d2eea2526f88c28.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
-        <dex dex="/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.2.0_0cedfbe0cf59f376b3a76bf80e258130dc1c757c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.github.florent37/materialviewpager/1.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="bed84864149d15e9c893b68ce9994fe6093cdbf4">
-        <dex dex="/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/pre-dexed/debug/com.github.florent37-materialviewpager-1.2.1_9789471e9faaaf84a46b9bba468a5f12600ab1b8.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/nguyenmanhtuan/.gradle/caches/modules-2/files-2.1/com.github.PhilJay/MPAndroidChart/v2.1.6/b036abbb61656165da99cf44898e4b9123687e65/MPAndroidChart-v2.1.6.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="b036abbb61656165da99cf44898e4b9123687e65">
-        <dex dex="/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/pre-dexed/debug/MPAndroidChart-v2.1.6_0fe90ad549b42f121e8964d6e02c082bcbbfc97b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_dfd482d0f9f62ad11b6d27cc8f0979b7b1ff1075.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
-        <dex dex="/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.0.0_284a8db8a7a9a2faadead39590d5ddae320d3c19.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
-        <dex dex="/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_25743d52b8cac0355f14b3f5a6bb62a12da023c7.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="3d6951cb416ebf8c66a32b9480808ca247b68344">
-        <dex dex="/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-10.2.0_797d1306be7616b9126a56555088eb432800478c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/BK/library/unspecified/jars/classes.jar"
+        jar="D:\Data\Du An\BKHN\project\BK\app\build\intermediates\exploded-aar\BK\library\unspecified\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="c74ae5b12a2dd6450b2e528739db6a0717d03a11">
-        <dex dex="/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/pre-dexed/debug/BK-library-unspecified_989796658083f7cd7d9bde6fb541b42508879b45.jar" />
+        <dex dex="D:\Data\Du An\BKHN\project\BK\app\build\intermediates\pre-dexed\debug\BK-library-unspecified_ac71bacfecd3c4f11c67d9dde11c853f05b7d8a8.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/nguyenmanhtuan/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/a681c044244d9fc375198588297a39ba78028423/retrofit-1.9.0.jar"
+        jar="C:\Users\VietAnh\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="a681c044244d9fc375198588297a39ba78028423">
-        <dex dex="/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/pre-dexed/debug/retrofit-1.9.0_43da32c457a9a3573947be2fb365eb51cc336a06.jar" />
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="D:\Data\Du An\BKHN\project\BK\app\build\intermediates\pre-dexed\debug\gson-2.8.0_bd152427f7b3ed2158a5b03d28517afc1e3b4ac2.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/nguyenmanhtuan/.gradle/caches/modules-2/files-2.1/org.jsoup/jsoup/1.7.2/d7e275ba05aa380ca254f72d0c0ffebaedc3adcf/jsoup-1.7.2.jar"
+        jar="D:\Data\Du An\BKHN\project\BK\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.2\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="d7e275ba05aa380ca254f72d0c0ffebaedc3adcf">
-        <dex dex="/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/pre-dexed/debug/jsoup-1.7.2_e70df5fc8bcaa7b2928d2bc34f4aa162334f7539.jar" />
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\Data\Du An\BKHN\project\BK\app\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.0.2_a6390e42079c21bc1fcf9c8fd6cda01545411b94.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jar="D:\Data\Du An\BKHN\project\BK\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
+        <dex dex="D:\Data\Du An\BKHN\project\BK\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-10.2.0_af26393714e0ce51c4f8015820869a290f45888c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Data\Du An\BKHN\project\BK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
-        <dex dex="/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_10607944ae0548b04cd3c38971af09d1699a124c.jar" />
+        <dex dex="D:\Data\Du An\BKHN\project\BK\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_8ae6267e49a3e1a3c3f0161499eb8e2cdfe5be4e.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/nguyenmanhtuan/.gradle/caches/modules-2/files-2.1/com.flaviofaria/kenburnsview/1.0.7/ce4e8bba9e026dd29f8110b2f6bb1fc4ecbdd9b1/kenburnsview-1.0.7.jar"
+        jar="C:\Users\VietAnh\.gradle\caches\modules-2\files-2.1\com.flaviofaria\kenburnsview\1.0.7\ce4e8bba9e026dd29f8110b2f6bb1fc4ecbdd9b1\kenburnsview-1.0.7.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="ce4e8bba9e026dd29f8110b2f6bb1fc4ecbdd9b1">
-        <dex dex="/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/pre-dexed/debug/kenburnsview-1.0.7_a60c069b97d9f527e12bd6f7550a26c47c32b3ec.jar" />
+        <dex dex="D:\Data\Du An\BKHN\project\BK\app\build\intermediates\pre-dexed\debug\kenburnsview-1.0.7_2ef957bd3bc0e6140b9bfe755d83df3e79770ba0.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/nguyenmanhtuan/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.1.0/d6854f42bfb4098d3d2358d93201307b9f1cc95d/butterknife-annotations-8.1.0.jar"
+        jar="D:\Data\Du An\BKHN\project\BK\app\build\intermediates\exploded-aar\com.github.florent37\materialviewpager\1.2.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="d6854f42bfb4098d3d2358d93201307b9f1cc95d">
-        <dex dex="/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.1.0_cdf6f06da61bf1a470e7265f882f2f4573dc6687.jar" />
+        sha1="bed84864149d15e9c893b68ce9994fe6093cdbf4">
+        <dex dex="D:\Data\Du An\BKHN\project\BK\app\build\intermediates\pre-dexed\debug\com.github.florent37-materialviewpager-1.2.1_8ea026047765a59f00b0dbe3264e1f9dfe2734ad.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jar="D:\Data\Du An\BKHN\project\BK\app\build\intermediates\exploded-aar\com.android.support\design\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="D:\Data\Du An\BKHN\project\BK\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.0.0_3d7ec5646d1ed57801e1a631f51a63cf2b3ab351.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Data\Du An\BKHN\project\BK\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\Data\Du An\BKHN\project\BK\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_fe8e94be9a16d9b922a514187e9d54fd01de526e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Data\Du An\BKHN\project\BK\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\Data\Du An\BKHN\project\BK\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_a6b23689ae397f2cf1df3adbf663f9a58ea371ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Data\Du An\BKHN\project\BK\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a61e7010aa7be5da53cd1bc5279630510c9a4912">
+        <dex dex="D:\Data\Du An\BKHN\project\BK\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-10.2.0_2e061525c05517687238f7204c72ad38be180308.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Data\Du An\BKHN\project\BK\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\Data\Du An\BKHN\project\BK\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_c5dc10879006e7ffb31cb4cb16437df33b02a905.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\VietAnh\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\Data\Du An\BKHN\project\BK\app\build\intermediates\pre-dexed\debug\glide-3.7.0_55a557d038a995db114928bd40948612cff82fbe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Data\Du An\BKHN\project\BK\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ce9112e08a027c8620ae693983e38cdbb9f6371b">
+        <dex dex="D:\Data\Du An\BKHN\project\BK\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-10.2.0_b70b66518c5a5e03cf01dc4fffdfae7f1da851a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Data\Du An\BKHN\project\BK\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="D:\Data\Du An\BKHN\project\BK\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.0.0_3d371526b45b7019ab9b559fffe813b564e2e467.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Data\Du An\BKHN\project\BK\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="D:\Data\Du An\BKHN\project\BK\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.0.0_c1953d83f050839e9923736316305c714fa11b94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Data\Du An\BKHN\project\BK\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
-        <dex dex="/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_38568d693e580bc67afd2caaaef5eebb129651e7.jar" />
+        <dex dex="D:\Data\Du An\BKHN\project\BK\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_6484758370e85c2132632c9050087e78ea16687b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\VietAnh\.gradle\caches\modules-2\files-2.1\org.jsoup\jsoup\1.7.2\d7e275ba05aa380ca254f72d0c0ffebaedc3adcf\jsoup-1.7.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7e275ba05aa380ca254f72d0c0ffebaedc3adcf">
+        <dex dex="D:\Data\Du An\BKHN\project\BK\app\build\intermediates\pre-dexed\debug\jsoup-1.7.2_ec54509b1615f674674bebcfad8b4c83e7117c13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\VietAnh\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.1.0\d6854f42bfb4098d3d2358d93201307b9f1cc95d\butterknife-annotations-8.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d6854f42bfb4098d3d2358d93201307b9f1cc95d">
+        <dex dex="D:\Data\Du An\BKHN\project\BK\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.1.0_839bde8e36839fa608f27b0ffd1daa3aab2305b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\VietAnh\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\1.9.0\a681c044244d9fc375198588297a39ba78028423\retrofit-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="D:\Data\Du An\BKHN\project\BK\app\build\intermediates\pre-dexed\debug\retrofit-1.9.0_23c83ca884d219119a79510041333e0fb82429aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Data\Du An\BKHN\project\BK\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3d6951cb416ebf8c66a32b9480808ca247b68344">
+        <dex dex="D:\Data\Du An\BKHN\project\BK\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-10.2.0_36332b98f41ad7f0df845a7ff91b5d517424e57f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Data\Du An\BKHN\project\BK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="D:\Data\Du An\BKHN\project\BK\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.2.0_edefb50a333130adf96ab17f20edaf7fcdbf69a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Data\Du An\BKHN\project\BK\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\Data\Du An\BKHN\project\BK\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_da3e6f1cdf03a6c2e26b27cb0e438745bf43b2c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\VietAnh\.gradle\caches\modules-2\files-2.1\com.github.PhilJay\MPAndroidChart\v2.1.6\b036abbb61656165da99cf44898e4b9123687e65\MPAndroidChart-v2.1.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b036abbb61656165da99cf44898e4b9123687e65">
+        <dex dex="D:\Data\Du An\BKHN\project\BK\app\build\intermediates\pre-dexed\debug\MPAndroidChart-v2.1.6_efba13d48705bcef532aa960e3d015be0d95f937.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Data\Du An\BKHN\project\BK\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Data\Du An\BKHN\project\BK\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_f723d937f46bfa0095c04e25ad99ebc8d95fdf14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Data\Du An\BKHN\project\BK\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="D:\Data\Du An\BKHN\project\BK\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.2.0_268185af0d3264384af10fc484d24133334ea41a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\VietAnh\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\Data\Du An\BKHN\project\BK\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_750310ed0afb9ceaf526b2045ad503630bcce969.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Data\Du An\BKHN\project\BK\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="D:\Data\Du An\BKHN\project\BK\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.0.0_f37d63f012e040fb19b07d83dd0e18d44780bc7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Data\Du An\BKHN\project\BK\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\Data\Du An\BKHN\project\BK\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_5e89ac88174f6882052191eeb58455638e484b89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\VietAnh\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\Data\Du An\BKHN\project\BK\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_e092a2d3030b210732a7212d9acd9d91487f3143.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Data\Du An\BKHN\project\BK\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\Data\Du An\BKHN\project\BK\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_ee9e83b9216b0c0cd1b5e8dcf79c63ee385c5293.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Data\Du An\BKHN\project\BK\app\build\intermediates\exploded-aar\com.jpardogo.materialtabstrip\library\1.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="611c7708cd3df0d7ae99105d4df5af8eb25c4b32">
+        <dex dex="D:\Data\Du An\BKHN\project\BK\app\build\intermediates\pre-dexed\debug\com.jpardogo.materialtabstrip-library-1.1.0_4cd34da61666ee4aa1a09ff1f22663d3b19f9836.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Data\Du An\BKHN\project\BK\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d4ab8678882571a0a6f19c47a826ecbce5b4f42b">
+        <dex dex="D:\Data\Du An\BKHN\project\BK\app\build\intermediates\pre-dexed\debug\com.jakewharton-butterknife-8.1.0_9d578cdc28c3f7c33c0051428110f32d682319ef.jar" />
     </item>
 
 </items>

@@ -1,14 +1,26 @@
 [
     {
-        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/menu/activity_main_drawer.xml",
-        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/src/main/res/menu/activity_main_drawer.xml"
+        "merged": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\src\\main\\res\\menu\\main.xml"
     },
     {
-        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
-        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/src/main/res/menu/menu_main.xml"
+        "merged": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\src\\main\\res\\menu\\main.xml"
     },
     {
-        "merged": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/build/intermediates/res/merged/debug/menu/main.xml",
-        "source": "/Users/nguyenmanhtuan/Documents/AnhTVc/work/bkhn/project/BK/app/src/main/res/menu/main.xml"
+        "merged": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
+        "source": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
+        "source": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\src\\main\\res\\menu\\menu_main.xml"
     }
 ]

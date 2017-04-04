@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/profile_layout"
+        android:layout_marginTop="5dp"
+        android:orientation="vertical"
+        android:id="@+id/linearLayout">
+
+        <ListView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/lvItemMonCaiThien"/>
+    </LinearLayout>
+
+
+    <RelativeLayout
+        android:id="@+id/profile_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:elevation="4dp"
+        android:padding="24dp"
+        android:layout_below="@+id/header_cover_image"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Thêm môn dự kiến cải thiện"
+            android:id="@+id/btnAdd"
+            android:textStyle="bold"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:backgroundTint="@color/colorS"
+            android:textColor="@android:color/background_light" />
+
+
+        <TextView
+            android:id="@+id/user_profile_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="2.16"
+            android:textColor="@color/colorAccent"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:layout_alignBaseline="@+id/btnAdd"
+            android:layout_alignBottom="@+id/btnAdd"
+            android:layout_toRightOf="@+id/btnAdd"
+            android:layout_toEndOf="@+id/btnAdd"
+            android:layout_marginLeft="28dp"
+            android:layout_marginStart="28dp" />
+
+    </RelativeLayout>
+
+    <ImageView
+        android:id="@+id/header_cover_image"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/bg_profileuser"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+</RelativeLayout>
