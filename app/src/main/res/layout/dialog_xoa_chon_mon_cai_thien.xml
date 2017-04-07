@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="15dp"
+    android:paddingBottom="15dp">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18dp"
+        android:paddingLeft="5dp"
+        android:id="@+id/tv_dialog_ma_hoc_phan_try"
+        android:textColor="#339933"
+        android:gravity="center"
+        android:paddingTop="5dp"
+        android:text="IT3430"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:id="@+id/tv_dialog_ten_hoc_phan_try"
+        android:layout_height="wrap_content"
+        android:textSize="12dp"
+        android:paddingTop="2dp"
+        android:paddingBottom="2dp"
+        android:paddingLeft="5dp"
+        android:gravity="center"
+        android:textColor="#669966"
+        android:text="Tin hieu he thong"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:paddingTop="10dp"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/cancelBtnTry"
+            android:text="Thôi"
+            android:textAllCaps="false"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginLeft="25dp"
+            android:background="@color/colorS"
+            android:textColor="@android:color/white"
+            android:layout_marginStart="25dp" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/deleteBtnTry"
+            android:text="Xóa môn"
+            android:textAllCaps="false"
+            android:background="@color/colorS"
+            android:textColor="@android:color/white"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginRight="25dp"
+            android:layout_marginEnd="25dp" />
+    </RelativeLayout>
+</LinearLayout>

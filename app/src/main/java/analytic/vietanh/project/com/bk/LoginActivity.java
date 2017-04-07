@@ -39,6 +39,8 @@ public class LoginActivity extends AppCompatActivity {
     private EditText inputPass;
     UtilMain utilMain = new UtilMainImpl();
 
+    public static User USER_LOGIN = null;
+
     AppCompatButton btnLogin;
     User user;
     @Override
@@ -233,6 +235,8 @@ public class LoginActivity extends AppCompatActivity {
 
                 String json = new Gson().toJson(user);
                 utilMain.writeToFile(json, this);
+
+                USER_LOGIN = user;
                 Log.d(TAG, "login success");
                 return true;
             }

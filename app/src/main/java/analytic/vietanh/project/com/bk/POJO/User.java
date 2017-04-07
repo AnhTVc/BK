@@ -15,6 +15,16 @@ public class User {
     private String heHoc;
     private String trangThai;
     ArrayList<ResultGPA> resultGPAs;
+    private ArrayList<Course> courses;
+    private ArrayList<Course> coursesTry;
+
+    public void setCoursesTry(ArrayList<Course> coursesTry) {
+        this.coursesTry = coursesTry;
+    }
+
+    public ArrayList<Course> getCoursesTry() {
+        return coursesTry;
+    }
 
     public void setResultGPAs(ArrayList<ResultGPA> resultGPAs) {
         this.resultGPAs = resultGPAs;
@@ -36,7 +46,7 @@ public class User {
         this.trangThai = trangThai;
     }
 
-    private ArrayList<Course> courses;
+
 
     public void setFullName(String fullName) {
         this.fullName = fullName;

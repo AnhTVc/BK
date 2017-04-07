@@ -1,123 +1,124 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical" android:layout_width="match_parent"
+    android:paddingTop="15dp"
+    android:paddingBottom="15dp"
     android:layout_height="match_parent">
     <TextView
-        android:layout_width="match_parent"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textSize="18dp"
+        android:textSize="20dp"
         android:paddingLeft="5dp"
         android:textColor="#339933"
+        android:layout_gravity="center"
+        android:paddingBottom="15dp"
 
-        android:paddingTop="5dp"
-        android:text="IT3430"/>
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:textSize="12dp"
-        android:paddingTop="2dp"
-        android:paddingBottom="2dp"
-        android:paddingLeft="5dp"
-        android:textColor="#669966"
-        android:text="Tin hieu he thong"/>
+        android:paddingTop="15dp"
+        android:text="Cải Thiện Môn Học"/>
     <View
-        android:layout_width="fill_parent"
+        android:layout_width="wrap_content"
         android:layout_height="2dp"
         android:layout_marginStart="5dp"
         android:layout_marginBottom="2dp"
         android:layout_marginLeft="2dp"
         android:layout_marginRight="5dp"
         android:background="#669966"/>
+
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
         <LinearLayout
+            android:layout_width="wrap_content"
+            android:orientation="vertical"
+            android:id="@+id/line1"
+            android:layout_height="wrap_content"
+            android:layout_toLeftOf="@+id/radioGroupA"
+            android:paddingTop="80dp"
+            android:gravity="center|center_horizontal"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18dp"
+                android:paddingLeft="5dp"
+                android:textColor="#339933"
+                android:id="@+id/tv_dialog_ma_hoc_phan"
+                android:paddingTop="5dp"
+                android:text="IT3430"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="12dp"
+                android:id="@+id/tv_dialog_ten_hoc_phan"
+                android:paddingTop="2dp"
+                android:paddingBottom="2dp"
+                android:paddingLeft="5dp"
+                android:textColor="#669966"
+                android:text="Tin hieu he thong"/>
+
+        </LinearLayout>
+
+        <RadioGroup
             android:id="@+id/radioGroupA"
-            xmlns:android="http://schemas.android.com/apk/res/android"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:orientation="vertical">
-            <RadioButton android:id="@+id/radio_pirates"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="A/A+"
-                android:onClick="onRadioButtonClicked"/>
-            <RadioButton
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="B+"
-                android:onClick="onRadioButtonClicked"/>
-        </LinearLayout>
-
-        <LinearLayout
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:id="@+id/radioGroupB"
             android:orientation="vertical"
+            android:layout_marginRight="75dp"
+            android:layout_marginEnd="75dp"
             android:layout_alignParentTop="true"
-            android:layout_toRightOf="@+id/radioGroupA"
-            android:layout_toEndOf="@+id/radioGroupA"
-            android:layout_marginLeft="50dp"
-            android:layout_marginStart="50dp">
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true">
+            <RadioButton
+                android:id="@+id/radioBtnA"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="true"
+                android:text="A/A+"/>
+            <RadioButton
+                android:id="@+id/radioBtnBPlus"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="B+"/>
+            <RadioButton
+                android:id="@+id/radioBtnB"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="B"/>
+
+            <RadioButton
+                android:id="@+id/radioBtnCPlus"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="C+"/>
             <RadioButton
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="B"
-                android:onClick="onRadioButtonClicked"/>
+                android:id="@+id/radioBtnC"
+                android:text="C"/>
 
             <RadioButton
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="C+"
-                android:onClick="onRadioButtonClicked"/>
-        </LinearLayout>
-        <LinearLayout
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:id="@+id/radioGroupC"
-            android:orientation="vertical"
-            android:layout_alignParentTop="true"
-            android:layout_toRightOf="@+id/radioGroupB"
-            android:layout_toEndOf="@+id/radioGroupB"
-            android:layout_marginLeft="50dp"
-            android:layout_marginStart="50dp">
+                android:id="@+id/radioBtnDPlus"
+                android:text="D+"/>
             <RadioButton
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="C"
-                android:onClick="onRadioButtonClicked"/>
+                android:id="@+id/radioBtnD"
+                android:text="D"/>
 
             <RadioButton
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="D+"
-                android:onClick="onRadioButtonClicked"/>
-        </LinearLayout>
-        <LinearLayout
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:id="@+id/radioGroupD"
-            android:orientation="vertical"
-            android:layout_alignParentTop="true"
-            android:layout_toRightOf="@+id/radioGroupC"
-            android:layout_toEndOf="@+id/radioGroupC"
-            android:layout_marginLeft="50dp"
-            android:layout_marginStart="50dp">
-            <RadioButton
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="D"
-                android:onClick="onRadioButtonClicked"/>
-
-            <RadioButton
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="F"
-                android:onClick="onRadioButtonClicked"/>
-        </LinearLayout>
+                android:id="@+id/radioBtnF"
+                android:text="F"/>
+        </RadioGroup>
     </RelativeLayout>
+
     <RelativeLayout
         android:layout_width="match_parent"
+        android:paddingTop="10dp"
         android:layout_height="wrap_content">
 
         <Button
@@ -128,18 +129,22 @@
             android:layout_alignParentTop="true"
             android:layout_alignParentLeft="true"
             android:layout_alignParentStart="true"
-            android:layout_marginLeft="68dp"
-            android:layout_marginStart="68dp" />
+            android:layout_marginLeft="25dp"
+            android:background="@color/colorS"
+            android:textColor="@android:color/white"
+            android:layout_marginStart="25dp" />
 
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/cancelBtn"
             android:text="Hủy Bỏ"
-            android:layout_marginLeft="63dp"
+            android:background="@color/colorS"
+            android:textColor="@android:color/white"
             android:layout_alignParentTop="true"
-            android:layout_toRightOf="@+id/chooseBtn"
-            android:layout_toEndOf="@+id/chooseBtn"
-            android:layout_marginStart="63dp" />
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginRight="25dp"
+            android:layout_marginEnd="25dp" />
     </RelativeLayout>
 </LinearLayout>

@@ -224,6 +224,10 @@
         "source": "D:\\Users\\nguyenmanhtuan\\Documents\\AnhTVc\\work\\bkhn\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.github.florent37\\materialviewpager\\1.2.1\\res\\layout\\material_view_pager_placeholder.xml"
     },
     {
+        "merged": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_xoa_chon_mon_cai_thien.xml",
+        "source": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\src\\main\\res\\layout\\dialog_xoa_chon_mon_cai_thien.xml"
+    },
+    {
         "merged": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
         "source": "D:\\Data\\Du An\\BKHN\\project\\BK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\layout\\design_layout_tab_icon.xml"
     },

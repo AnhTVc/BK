@@ -13,6 +13,15 @@ public class Course {
     private float diemQT;
     private float diemThi;
     private String diemChu;
+    private float diemDuKienCaiThien;
+
+    public void setDiemDuKienCaiThien(float diemDuKienCaiThien) {
+        this.diemDuKienCaiThien = diemDuKienCaiThien;
+    }
+
+    public float getDiemDuKienCaiThien() {
+        return diemDuKienCaiThien;
+    }
 
     public Course(){}
 

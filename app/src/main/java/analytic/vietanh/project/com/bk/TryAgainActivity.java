@@ -13,12 +13,14 @@ import java.util.ArrayList;
 import analytic.vietanh.project.com.bk.POJO.Course;
 import analytic.vietanh.project.com.bk.POJO.User;
 import analytic.vietanh.project.com.bk.adapter.CourseAdapter;
+import analytic.vietanh.project.com.bk.adapter.CourseTryAgainAdapter;
 import analytic.vietanh.project.com.bk.util.UtilMain;
 import analytic.vietanh.project.com.bk.util.UtilMainImpl;
 
 public class TryAgainActivity extends AppCompatActivity {
     Button btnAdd;
     Intent otherInter;
+    ListView listView;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -33,12 +35,33 @@ public class TryAgainActivity extends AppCompatActivity {
             }
         });
 
-        UtilMain utilMain = new UtilMainImpl();
-        User user = utilMain.loadUserProfileNew(getApplicationContext());
-        ArrayList<Course> courses = user.getCourses();
-        CourseAdapter courseAdapter = new CourseAdapter(this, courses);
-        ListView listView = (ListView) findViewById(R.id.lvItemMonCaiThien);
-        listView.setAdapter(courseAdapter);
+        User user = LoginActivity.USER_LOGIN;
+        if(user != null){
+            ArrayList<Course> courses = user.getCoursesTry();
+            if(courses != null){
+                CourseTryAgainAdapter courseAdapter = new CourseTryAgainAdapter(this, courses);
+                listView = (ListView) findViewById(R.id.lvItemMonCaiThien);
+                listView.setAdapter(courseAdapter);
+            }
+        }
+
+    }
+
+    @Override
+    public void onResume(){
+        super.onResume();
+        // put your code here...
+        User user = LoginActivity.USER_LOGIN;
+        if(user != null){
+            ArrayList<Course> courses = user.getCoursesTry();
+            if(courses != null){
+                CourseTryAgainAdapter courseAdapter = new CourseTryAgainAdapter(this, courses);
+                listView = (ListView) findViewById(R.id.lvItemMonCaiThien);
+                listView.setAdapter(courseAdapter);
+                courseAdapter.notifyDataSetChanged();
+                listView.invalidateViews();
+            }
+        }
     }
 
     @Override
